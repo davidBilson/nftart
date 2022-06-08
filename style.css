@@ -27,7 +27,7 @@ body {
     padding: 10px;
     border: 2px solid rgb(77, 77, 77);
     background: rgba(20, 20, 20, 0.5);
-    color: silver;
+    color: grey;
     border-radius: 15px;
     margin: 20px;
 }
@@ -38,17 +38,17 @@ body {
 }
 
 .nft-title {
-    color: rgb(211, 211, 211);
+    color: grey;
     font-weight: 800;
 }
 .nft-paragh {
     
-    color: rgb(201, 190, 250);
+    color: grey;
     font-size: .8rem;
     font-weight: 600;
 }
 .nft-price {
-    color: gold;
+    color: goldenrod;
     font-weight: 600;
 }
 
